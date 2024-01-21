@@ -2,6 +2,7 @@
 
 ### My name is Ben and I am a product manager, developer and technology tinkerer.
 
+Today I learned about this special repo. If you create a repo with only your github username, like this one, it's README.md file will be automatically pinned to the top of your public github.com profile. The repo does of course have to be public.
 <!--
 **benstraw/benstraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
