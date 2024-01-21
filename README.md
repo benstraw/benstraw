@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My name is Ben and I am a product manager, developer and technology tinkerer.
+
 <!--
 **benstraw/benstraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
